@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/media/hd2/zeeya/hardware/intel/linux-2.6/ipc'
+let g:netrw_dirhist_2='/media/hd2/zeeya/hardware/intel/linux-2.6/arch/x86/ia32'
+let g:netrw_dirhist_3='/home/shizkr/bin'
+let g:netrw_dirhist_4='/media/hd2/zeeya/hardware/intel/linux-2.6/include/sound'
+let g:netrw_dirhist_5='/home/dennydon/project/zeeya/~/log/reportrepocommit'
