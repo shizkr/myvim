@@ -55,9 +55,10 @@ set wildmenu
 "taglist options
 let Tlist_Show_One_File=1
 let Tlist_WinWidth=40
+let Tlist_Use_Split_Window = 1
+com TT NERDTree | TlistToggle
 
-nmap <F5> :TlistToggle<CR>
-nmap <F6> :TlistOpen<CR>
+nmap <F5> :TT<CR>
 nmap <F8> :tabn<CR>
 
 " GVIM
