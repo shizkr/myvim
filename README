@@ -3,3 +3,9 @@
 git clone this repo to my ~/.vim
 
 
+- syntastic
+syntastic is a submodule of .vim and has to be cloned from
+https://github.com/scrooloose/syntastic
+Also read the details under the website to install it.
+
+
