@@ -1,12 +1,12 @@
 set nocompatible
 syntax on
-filetype plugin indent on 
+filetype plugin indent on
 " helptags ~/.vim/doc "Rais 플러그인의 도움말 로딩
 helptags ~/.vim/doc
 "colorscheme vibrantink "둘 중 하나를 고르세요
-"colorscheme vividchalk
+colorscheme desert
 if has("gui_running")
-	colorscheme torte 
+	colorscheme desert
 endif
 
 set nobackup
